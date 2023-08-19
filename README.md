@@ -101,8 +101,8 @@ Pulsating circle animations create dynamic and visually appealing effects using 
 
 To run the animation examples on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/guledaaydemir/AnimationExamples.git`.
-2. Open the Xcode project (`AnimationExamples.xcodeproj`) using Xcode.
+1. Clone this repository to your local machine using `git clone [https://github.com/guledaaydemir/AnimationExamples.git](https://github.com/guledaaydemir/SwiftUI-Animations.git)`.
+2. Open the Xcode project (`Animation.xcodeproj`) using Xcode.
 3. Select a specific animation example from the project navigator on the left.
 4. Build and run the example in the Xcode simulator.
 

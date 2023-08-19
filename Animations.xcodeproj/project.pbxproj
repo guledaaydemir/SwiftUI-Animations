@@ -16,6 +16,16 @@
 		BDD182BB2A91228100AF4710 /* AnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182BA2A91228100AF4710 /* AnimationsTests.swift */; };
 		BDD182C52A91228200AF4710 /* AnimationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182C42A91228200AF4710 /* AnimationsUITests.swift */; };
 		BDD182C72A91228200AF4710 /* AnimationsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182C62A91228200AF4710 /* AnimationsUITestsLaunchTests.swift */; };
+		BDD182D42A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D32A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift */; };
+		BDD182D62A91241E00AF4710 /* ButtonPressEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D52A91241E00AF4710 /* ButtonPressEffectsView.swift */; };
+		BDD182D82A91243300AF4710 /* CardFlipAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D72A91243300AF4710 /* CardFlipAnimationView.swift */; };
+		BDD182DA2A91244900AF4710 /* ParallaxScrollingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D92A91244900AF4710 /* ParallaxScrollingView.swift */; };
+		BDD182DC2A91249700AF4710 /* LoadingIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182DB2A91249700AF4710 /* LoadingIndicatorView.swift */; };
+		BDD182DE2A9124EE00AF4710 /* ModalPresentationView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182DD2A9124EE00AF4710 /* ModalPresentationView.swift .swift */; };
+		BDD182E02A91251D00AF4710 /* ChartAnimationsView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182DF2A91251D00AF4710 /* ChartAnimationsView.swift .swift */; };
+		BDD182E22A9125A900AF4710 /* WalkthroughAnimationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182E12A9125A900AF4710 /* WalkthroughAnimationsView.swift */; };
+		BDD182E42A91260100AF4710 /* ImageGalleryCarouselView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182E32A91260100AF4710 /* ImageGalleryCarouselView.swift .swift */; };
+		BDD182E82A913AB200AF4710 /* PulsatingCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +58,16 @@
 		BDD182C02A91228200AF4710 /* AnimationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD182C42A91228200AF4710 /* AnimationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITests.swift; sourceTree = "<group>"; };
 		BDD182C62A91228200AF4710 /* AnimationsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDD182D32A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SplashScreenAnimationView.swift .swift"; sourceTree = "<group>"; };
+		BDD182D52A91241E00AF4710 /* ButtonPressEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPressEffectsView.swift; sourceTree = "<group>"; };
+		BDD182D72A91243300AF4710 /* CardFlipAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFlipAnimationView.swift; sourceTree = "<group>"; };
+		BDD182D92A91244900AF4710 /* ParallaxScrollingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxScrollingView.swift; sourceTree = "<group>"; };
+		BDD182DB2A91249700AF4710 /* LoadingIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingIndicatorView.swift; sourceTree = "<group>"; };
+		BDD182DD2A9124EE00AF4710 /* ModalPresentationView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ModalPresentationView.swift .swift"; sourceTree = "<group>"; };
+		BDD182DF2A91251D00AF4710 /* ChartAnimationsView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ChartAnimationsView.swift .swift"; sourceTree = "<group>"; };
+		BDD182E12A9125A900AF4710 /* WalkthroughAnimationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalkthroughAnimationsView.swift; sourceTree = "<group>"; };
+		BDD182E32A91260100AF4710 /* ImageGalleryCarouselView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ImageGalleryCarouselView.swift .swift"; sourceTree = "<group>"; };
+		BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulsatingCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +124,7 @@
 				BDD182AD2A91228100AF4710 /* Persistence.swift */,
 				BDD182AF2A91228100AF4710 /* Animations.xcdatamodeld */,
 				BDD182AA2A91228100AF4710 /* Preview Content */,
+				BDD182EA2A91411500AF4710 /* AnimationViews */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -131,6 +152,23 @@
 				BDD182C62A91228200AF4710 /* AnimationsUITestsLaunchTests.swift */,
 			);
 			path = AnimationsUITests;
+			sourceTree = "<group>";
+		};
+		BDD182EA2A91411500AF4710 /* AnimationViews */ = {
+			isa = PBXGroup;
+			children = (
+				BDD182D32A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift */,
+				BDD182D52A91241E00AF4710 /* ButtonPressEffectsView.swift */,
+				BDD182D72A91243300AF4710 /* CardFlipAnimationView.swift */,
+				BDD182D92A91244900AF4710 /* ParallaxScrollingView.swift */,
+				BDD182DB2A91249700AF4710 /* LoadingIndicatorView.swift */,
+				BDD182DD2A9124EE00AF4710 /* ModalPresentationView.swift .swift */,
+				BDD182DF2A91251D00AF4710 /* ChartAnimationsView.swift .swift */,
+				BDD182E12A9125A900AF4710 /* WalkthroughAnimationsView.swift */,
+				BDD182E32A91260100AF4710 /* ImageGalleryCarouselView.swift .swift */,
+				BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */,
+			);
+			path = AnimationViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,8 +301,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDD182DE2A9124EE00AF4710 /* ModalPresentationView.swift .swift in Sources */,
 				BDD182AE2A91228100AF4710 /* Persistence.swift in Sources */,
+				BDD182D42A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift in Sources */,
 				BDD182A72A91227F00AF4710 /* ContentView.swift in Sources */,
+				BDD182E02A91251D00AF4710 /* ChartAnimationsView.swift .swift in Sources */,
+				BDD182DC2A91249700AF4710 /* LoadingIndicatorView.swift in Sources */,
+				BDD182E42A91260100AF4710 /* ImageGalleryCarouselView.swift .swift in Sources */,
+				BDD182DA2A91244900AF4710 /* ParallaxScrollingView.swift in Sources */,
+				BDD182D62A91241E00AF4710 /* ButtonPressEffectsView.swift in Sources */,
+				BDD182E22A9125A900AF4710 /* WalkthroughAnimationsView.swift in Sources */,
+				BDD182E82A913AB200AF4710 /* PulsatingCircleView.swift in Sources */,
+				BDD182D82A91243300AF4710 /* CardFlipAnimationView.swift in Sources */,
 				BDD182B12A91228100AF4710 /* Animations.xcdatamodeld in Sources */,
 				BDD182A52A91227F00AF4710 /* AnimationsApp.swift in Sources */,
 			);

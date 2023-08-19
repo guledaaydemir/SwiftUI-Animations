@@ -4,7 +4,7 @@ This repository contains a collection of SwiftUI animation examples implemented 
 > https://www.linkedin.com/in/gul-eda-aydemir/
 
 <p align="center">
-  <img src="logo_app.png" alt="App Logo" width="120" height="120">
+  <img src="https://github.com/guledaaydemir/SwiftUI-Animations/blob/main/Animations/Assets.xcassets/logo_app.imageset/logo_app%20(1).png" alt="App Logo" width="120" height="120">
 </p>
 
 ## Table of Contents

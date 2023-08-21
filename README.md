@@ -33,13 +33,14 @@ This project showcases various animation techniques implemented using SwiftUI. E
 
 ### 🔺 Splash Screen Animation
 
-<img src="gifs/SplashScreenAnimation.gif" alt="Splash Screen Animation" style="max-width: 50%;">
+<img src="gifs/SplashScreenAnimation.gif" alt="Splash Screen Animation" width="150">
+
 
 This animation demonstrates a dynamic splash screen that transitions smoothly into the main content of the app.
 
 ### 🔺 Button Press Effects
 
-<img src="gifs/ButtonPressEffects.gif" alt="Button Press Effects" style="max-width: 50%;">
+<img src="gifs/ButtonPressEffects.gif" alt="Button Press Effects" width="150">
 
 Button press effects add visual feedback to user interactions, enhancing the overall user experience.
 
@@ -55,49 +56,49 @@ Button press effects add visual feedback to user interactions, enhancing the ove
 
 ### 🔺 Card Flip Animation
 
-<img src="gifs/CardFlipAnimation.gif" alt="Card Flip Animation" style="max-width: 50%;">
+<img src="gifs/CardFlipAnimation.gif" alt="Card Flip Animation" width="150">
 
 The card flip animation showcases a classic flip effect, revealing the back of the card when tapped.
 
 ### 🔺 Parallax Scrolling
 
-<img src="gifs/ParallaxScrolling.gif" alt="Parallax Scrolling" style="max-width: 50%;">
+<img src="gifs/ParallaxScrolling.gif" alt="Parallax Scrolling" width="150">
 
 Parallax scrolling creates a captivating visual effect where background elements move at different speeds, providing depth to the user interface.
 
 ### 🔺 Loading Indicator
 
-<img src="gifs/LoadingIndicator.gif" alt="Loading Indicator" style="max-width: 50%;">
+<img src="gifs/LoadingIndicator.gif" alt="Loading Indicator" width="150">
 
 Loading indicators provide users with feedback during data loading or processing tasks.
 
 ### 🔺 Modal Presentation
 
-<img src="GIFs/ModalPresentation.gif" alt="Modal Presentation" style="max-width: 50%;">
+<img src="gifs/ModalPresentation.gif" alt="Modal Presentation" width="150">
 
 Modal presentations overlay a new view on top of the current one, offering a focused context for specific actions or information.
 
 ### 🔺 Chart Animations
 
-<img src="gifs/ChartAnimations.gif" alt="Chart Animations" style="max-width: 50%;">
+<img src="gifs/ChartAnimations.gif" alt="Chart Animations" width="150">
 
 Animated charts bring data to life, making it easier for users to understand and interpret information.
 
 ### 🔺 Walkthrough Animations
 
-<img src="gifs/WalkthroughAnimations.gif" alt="Walkthrough Animations" style="max-width: 50%;">
+<img src="gifs/WalkthroughAnimations.gif" alt="Walkthrough Animations" width="150">
 
 Walkthrough animations guide users through a series of screens or steps, introducing app features or functionality.
 
 ### 🔺 Image Gallery Carousel
 
-<img src="gifs/ImageGalleryCarousel.gif" alt="Image Gallery Carousel" style="max-width: 50%;">
+<img src="gifs/ImageGalleryCarousel.gif" alt="Image Gallery Carousel" width="150">
 
 Image gallery carousels provide an interactive way to view and navigate through a collection of images.
 
 ### 🔺 Pulsating Circle Animations
 
-<img src="gifs/PulsatingCircleAnimations.gif" alt="Pulsating Circle Animations" style="max-width: 50%;">
+<img src="gifs/PulsatingCircleAnimations.gif" alt="Pulsating Circle Animations" width="150">
 
 Pulsating circle animations create dynamic and visually appealing effects using animated circles that change in size over time.
 
@@ -105,7 +106,7 @@ Pulsating circle animations create dynamic and visually appealing effects using 
 
 To run the animation examples on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/guledaaydemir/AnimationExamples.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/guledaaydemir/SwiftUI-Animations`.
 2. Open the Xcode project (`Animation.xcodeproj`) using Xcode.
 3. Select a specific animation example from the project navigator on the left.
 4. Build and run the example in the Xcode simulator.

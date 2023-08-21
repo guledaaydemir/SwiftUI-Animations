@@ -21,6 +21,7 @@ This repository contains a collection of SwiftUI animation examples implemented 
   - [🔺 Walkthrough Animations](#-walkthrough-animations)
   - [🔺 Image Gallery Carousel](#-image-gallery-carousel)
   - [🔺 Pulsating Circle Animations](#-pulsating-circle-animations)
+  - [🔺 Liquid Animation](#-liquid-animation)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -101,6 +102,12 @@ Image gallery carousels provide an interactive way to view and navigate through 
 <img src="gifs/PulsatingCircleAnimations.gif" alt="Pulsating Circle Animations" width="150">
 
 Pulsating circle animations create dynamic and visually appealing effects using animated circles that change in size over time.
+
+### 🔺 Liquid Animation
+
+<img src="gifs/LiquidAnimation.gif" alt="Liquid Animation" width="150">
+
+The `LiquidAnimationView` demonstrates an intriguing liquid-like animation effect using the [`Liquid`](https://github.com/maustinstar/liquid) package in SwiftUI. The animation creates a fluid motion with dynamic visual elements that respond to user interactions.
 
 ## Getting Started
 

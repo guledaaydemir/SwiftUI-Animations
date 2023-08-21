@@ -33,13 +33,13 @@ This project showcases various animation techniques implemented using SwiftUI. E
 
 ### 🔺 Splash Screen Animation
 
-<img src="GIFs/SplashScreenAnimation.gif" alt="Splash Screen Animation" style="max-width: 50%;">
+<img src="gifs/SplashScreenAnimation.gif" alt="Splash Screen Animation" style="max-width: 50%;">
 
 This animation demonstrates a dynamic splash screen that transitions smoothly into the main content of the app.
 
 ### 🔺 Button Press Effects
 
-<img src="GIFs/ButtonPressEffects.gif" alt="Button Press Effects" style="max-width: 50%;">
+<img src="gifs/ButtonPressEffects.gif" alt="Button Press Effects" style="max-width: 50%;">
 
 Button press effects add visual feedback to user interactions, enhancing the overall user experience.
 
@@ -55,19 +55,19 @@ Button press effects add visual feedback to user interactions, enhancing the ove
 
 ### 🔺 Card Flip Animation
 
-<img src="GIFs/CardFlipAnimation.gif" alt="Card Flip Animation" style="max-width: 50%;">
+<img src="gifs/CardFlipAnimation.gif" alt="Card Flip Animation" style="max-width: 50%;">
 
 The card flip animation showcases a classic flip effect, revealing the back of the card when tapped.
 
 ### 🔺 Parallax Scrolling
 
-<img src="GIFs/ParallaxScrolling.gif" alt="Parallax Scrolling" style="max-width: 50%;">
+<img src="gifs/ParallaxScrolling.gif" alt="Parallax Scrolling" style="max-width: 50%;">
 
 Parallax scrolling creates a captivating visual effect where background elements move at different speeds, providing depth to the user interface.
 
 ### 🔺 Loading Indicator
 
-<img src="GIFs/LoadingIndicator.gif" alt="Loading Indicator" style="max-width: 50%;">
+<img src="gifs/LoadingIndicator.gif" alt="Loading Indicator" style="max-width: 50%;">
 
 Loading indicators provide users with feedback during data loading or processing tasks.
 
@@ -79,25 +79,25 @@ Modal presentations overlay a new view on top of the current one, offering a foc
 
 ### 🔺 Chart Animations
 
-<img src="GIFs/ChartAnimations.gif" alt="Chart Animations" style="max-width: 50%;">
+<img src="gifs/ChartAnimations.gif" alt="Chart Animations" style="max-width: 50%;">
 
 Animated charts bring data to life, making it easier for users to understand and interpret information.
 
 ### 🔺 Walkthrough Animations
 
-<img src="GIFs/WalkthroughAnimations.gif" alt="Walkthrough Animations" style="max-width: 50%;">
+<img src="gifs/WalkthroughAnimations.gif" alt="Walkthrough Animations" style="max-width: 50%;">
 
 Walkthrough animations guide users through a series of screens or steps, introducing app features or functionality.
 
 ### 🔺 Image Gallery Carousel
 
-<img src="GIFs/ImageGalleryCarousel.gif" alt="Image Gallery Carousel" style="max-width: 50%;">
+<img src="gifs/ImageGalleryCarousel.gif" alt="Image Gallery Carousel" style="max-width: 50%;">
 
 Image gallery carousels provide an interactive way to view and navigate through a collection of images.
 
 ### 🔺 Pulsating Circle Animations
 
-<img src="GIFs/PulsatingCircleAnimations.gif" alt="Pulsating Circle Animations" style="max-width: 50%;">
+<img src="gifs/PulsatingCircleAnimations.gif" alt="Pulsating Circle Animations" style="max-width: 50%;">
 
 Pulsating circle animations create dynamic and visually appealing effects using animated circles that change in size over time.
 

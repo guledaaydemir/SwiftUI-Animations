@@ -33,15 +33,13 @@ This project showcases various animation techniques implemented using SwiftUI. E
 
 ### 🔺 Splash Screen Animation
 
-<!-- GIF Placeholder -->
-![Splash Screen Animation](gifs/SplashScreenAnimation.gif)
+<img src="GIFs/SplashScreenAnimation.gif" alt="Splash Screen Animation" style="max-width: 50%;">
 
 This animation demonstrates a dynamic splash screen that transitions smoothly into the main content of the app.
 
 ### 🔺 Button Press Effects
 
-<!-- GIF Placeholder -->
-![Button Press Effects](gifs/ButtonPressEffects.gif)
+<img src="GIFs/ButtonPressEffects.gif" alt="Button Press Effects" style="max-width: 50%;">
 
 Button press effects add visual feedback to user interactions, enhancing the overall user experience.
 
@@ -57,57 +55,49 @@ Button press effects add visual feedback to user interactions, enhancing the ove
 
 ### 🔺 Card Flip Animation
 
-<!-- GIF Placeholder -->
-![Card Flip Animation](gifs/CardFlipAnimation.gif)
+<img src="GIFs/CardFlipAnimation.gif" alt="Card Flip Animation" style="max-width: 50%;">
 
 The card flip animation showcases a classic flip effect, revealing the back of the card when tapped.
 
 ### 🔺 Parallax Scrolling
 
-<!-- GIF Placeholder -->
-![Parallax Scrolling](gifs/ParallaxScrolling.gif)
+<img src="GIFs/ParallaxScrolling.gif" alt="Parallax Scrolling" style="max-width: 50%;">
 
 Parallax scrolling creates a captivating visual effect where background elements move at different speeds, providing depth to the user interface.
 
 ### 🔺 Loading Indicator
 
-<!-- GIF Placeholder -->
-![Loading Indicator](gifs/LoadingIndicator.gif)
+<img src="GIFs/LoadingIndicator.gif" alt="Loading Indicator" style="max-width: 50%;">
 
 Loading indicators provide users with feedback during data loading or processing tasks.
 
 ### 🔺 Modal Presentation
 
-<!-- GIF Placeholder -->
-![Modal Presentation](gifs/ModalPresentation.gif)
+<img src="GIFs/ModalPresentation.gif" alt="Modal Presentation" style="max-width: 50%;">
 
 Modal presentations overlay a new view on top of the current one, offering a focused context for specific actions or information.
 
 ### 🔺 Chart Animations
 
-<!-- GIF Placeholder -->
-![Chart Animations](gifs/ChartAnimations.gif)
+<img src="GIFs/ChartAnimations.gif" alt="Chart Animations" style="max-width: 50%;">
 
 Animated charts bring data to life, making it easier for users to understand and interpret information.
 
 ### 🔺 Walkthrough Animations
 
-<!-- GIF Placeholder -->
-![Walkthrough Animations](gifs/WalkthroughAnimations.gif)
+<img src="GIFs/WalkthroughAnimations.gif" alt="Walkthrough Animations" style="max-width: 50%;">
 
 Walkthrough animations guide users through a series of screens or steps, introducing app features or functionality.
 
 ### 🔺 Image Gallery Carousel
 
-<!-- GIF Placeholder -->
-![Image Gallery Carousel](gifs/ImageGalleryCarousel.gif)
+<img src="GIFs/ImageGalleryCarousel.gif" alt="Image Gallery Carousel" style="max-width: 50%;">
 
 Image gallery carousels provide an interactive way to view and navigate through a collection of images.
 
 ### 🔺 Pulsating Circle Animations
 
-<!-- GIF Placeholder -->
-![Pulsating Circle Animations](gifs/PulsatingCircleAnimations.gif)
+<img src="GIFs/PulsatingCircleAnimations.gif" alt="Pulsating Circle Animations" style="max-width: 50%;">
 
 Pulsating circle animations create dynamic and visually appealing effects using animated circles that change in size over time.
 

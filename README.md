@@ -22,6 +22,8 @@ This repository contains a collection of SwiftUI animation examples implemented 
   - [🔺 Image Gallery Carousel](#-image-gallery-carousel)
   - [🔺 Pulsating Circle Animations](#-pulsating-circle-animations)
   - [🔺 Liquid Animation](#-liquid-animation)
+  - [🔺 Bouncing Ball Animation](#-bouncing-ball-animation)
+  - [🔺 Fading Transition Animation](#-fading-transition-animation)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -108,6 +110,19 @@ Pulsating circle animations create dynamic and visually appealing effects using 
 <img src="gifs/LiquidAnimation.gif" alt="Liquid Animation" width="150">
 
 The `LiquidAnimationView` demonstrates an intriguing liquid-like animation effect using the [`Liquid`](https://github.com/maustinstar/liquid) package in SwiftUI. The animation creates a fluid motion with dynamic visual elements that respond to user interactions.
+
+### 🔺 Bouncing Ball Animation
+
+<img src="gifs/BouncingBallAnimation.gif" alt="Bouncing Ball Animation" width="150">
+
+The "Bouncing Ball Animation" example showcases a dynamic animation of a ball bouncing vertically within a container. The animation uses SwiftUI's built-in physics-based animation to simulate the natural motion of a bouncing ball. As the ball reaches the bottom of the container, it smoothly reverses its direction and continues bouncing, creating a visually engaging and playful effect.
+
+### 🔺 Fading Transition Animation
+
+<img src="gifs/FadingTransitionAnimation.gif" alt="Fading Transition Animation" width="150">
+
+The "Fading Transition Animation" example demonstrates a smooth transition between two views using opacity. When the "More Information" button is pressed, the view transitions from a compact state to an expanded state with fading animation. The transition adds a sense of depth and interactivity, enhancing the user experience. This animation effect can be particularly useful for revealing additional information or details within a limited space.
+
 
 ## Getting Started
 

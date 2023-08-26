@@ -13,35 +13,39 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
-                NavigationLink {
-                    SplashScreenAnimationView()
-                } label: {
-                    Label("Splash Screen Animation", systemImage: "star.circle.fill")
+                
+                Group {
+                    NavigationLink {
+                        SplashScreenAnimationView()
+                    } label: {
+                        Label("Splash Screen Animation", systemImage: "star.circle.fill")
+                    }
+                    
+                    NavigationLink {
+                        ButtonPressEffectsView()
+                    } label: {
+                        Label("Button Press Effects", systemImage: "rectangle.roundedtop.fill")
+                    }
+                    
+                    NavigationLink {
+                        CardFlipAnimationView()
+                    } label: {
+                        Label("Card Flip Animation", systemImage: "cube.box.fill")
+                    }
+                    
+                    NavigationLink {
+                        ParallaxScrollingView()
+                    } label: {
+                        Label("Parallax Scrolling", systemImage: "line.horizontal.3.decrease.circle.fill")
+                    }
+                    
+                    NavigationLink {
+                        LoadingIndicatorView()
+                    } label: {
+                        Label("Loading Indicator", systemImage: "arrow.clockwise.circle.fill")
+                    }
                 }
                 
-                NavigationLink {
-                    ButtonPressEffectsView()
-                } label: {
-                    Label("Button Press Effects", systemImage: "rectangle.roundedtop.fill")
-                }
-                
-                NavigationLink {
-                    CardFlipAnimationView()
-                } label: {
-                    Label("Card Flip Animation", systemImage: "cube.box.fill")
-                }
-                
-                NavigationLink {
-                    ParallaxScrollingView()
-                } label: {
-                    Label("Parallax Scrolling", systemImage: "line.horizontal.3.decrease.circle.fill")
-                }
-                
-                NavigationLink {
-                    LoadingIndicatorView()
-                } label: {
-                    Label("Loading Indicator", systemImage: "arrow.clockwise.circle.fill")
-                }
                 
                 NavigationLink {
                     ModalPresentationView()
@@ -71,6 +75,24 @@ struct ContentView: View {
                     PulsatingCircleView()
                 } label: {
                     Label("Pulsating Circle Animations", systemImage: "circle.fill")
+                }
+                
+                NavigationLink {
+                    LiquidAnimationView()
+                } label: {
+                    Label("Liquid Animation", systemImage: "waveform")
+                }
+                
+                NavigationLink {
+                    BouncingBallAnimationView()
+                } label: {
+                    Label("Bouncing Ball Animation", systemImage: "circlebadge.fill")
+                }
+                
+                NavigationLink {
+                    FadingTransitionAnimationView()
+                } label: {
+                    Label("Fading Transition Animation", systemImage: "arrow.triangle.2.circlepath.circle.fill")
                 }
             }
             .navigationTitle("Animation Examples")

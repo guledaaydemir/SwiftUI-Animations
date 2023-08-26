@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD8E52E22A9A11FD008EA05B /* SplashScreenAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52DC2A9A11FC008EA05B /* SplashScreenAnimationView.swift */; };
+		BD8E52E32A9A11FD008EA05B /* ChartAnimationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52DD2A9A11FC008EA05B /* ChartAnimationsView.swift */; };
+		BD8E52E42A9A11FD008EA05B /* ModalPresentationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52DE2A9A11FC008EA05B /* ModalPresentationView.swift */; };
+		BD8E52E52A9A11FD008EA05B /* FadingTransitionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52DF2A9A11FC008EA05B /* FadingTransitionAnimationView.swift */; };
+		BD8E52E62A9A11FD008EA05B /* BouncingBallAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52E02A9A11FC008EA05B /* BouncingBallAnimationView.swift */; };
+		BD8E52E72A9A11FD008EA05B /* ImageGalleryCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52E12A9A11FD008EA05B /* ImageGalleryCarouselView.swift */; };
+		BD8E52E92A9A131D008EA05B /* LiquidAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52E82A9A131D008EA05B /* LiquidAnimationView.swift */; };
+		BD8E52EC2A9A13A3008EA05B /* Liquid in Frameworks */ = {isa = PBXBuildFile; productRef = BD8E52EB2A9A13A3008EA05B /* Liquid */; };
 		BDD182A52A91227F00AF4710 /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182A42A91227F00AF4710 /* AnimationsApp.swift */; };
 		BDD182A72A91227F00AF4710 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182A62A91227F00AF4710 /* ContentView.swift */; };
 		BDD182A92A91228100AF4710 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDD182A82A91228100AF4710 /* Assets.xcassets */; };
@@ -16,15 +24,11 @@
 		BDD182BB2A91228100AF4710 /* AnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182BA2A91228100AF4710 /* AnimationsTests.swift */; };
 		BDD182C52A91228200AF4710 /* AnimationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182C42A91228200AF4710 /* AnimationsUITests.swift */; };
 		BDD182C72A91228200AF4710 /* AnimationsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182C62A91228200AF4710 /* AnimationsUITestsLaunchTests.swift */; };
-		BDD182D42A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D32A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift */; };
 		BDD182D62A91241E00AF4710 /* ButtonPressEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D52A91241E00AF4710 /* ButtonPressEffectsView.swift */; };
 		BDD182D82A91243300AF4710 /* CardFlipAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D72A91243300AF4710 /* CardFlipAnimationView.swift */; };
 		BDD182DA2A91244900AF4710 /* ParallaxScrollingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182D92A91244900AF4710 /* ParallaxScrollingView.swift */; };
 		BDD182DC2A91249700AF4710 /* LoadingIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182DB2A91249700AF4710 /* LoadingIndicatorView.swift */; };
-		BDD182DE2A9124EE00AF4710 /* ModalPresentationView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182DD2A9124EE00AF4710 /* ModalPresentationView.swift .swift */; };
-		BDD182E02A91251D00AF4710 /* ChartAnimationsView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182DF2A91251D00AF4710 /* ChartAnimationsView.swift .swift */; };
 		BDD182E22A9125A900AF4710 /* WalkthroughAnimationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182E12A9125A900AF4710 /* WalkthroughAnimationsView.swift */; };
-		BDD182E42A91260100AF4710 /* ImageGalleryCarouselView.swift .swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182E32A91260100AF4710 /* ImageGalleryCarouselView.swift .swift */; };
 		BDD182E82A913AB200AF4710 /* PulsatingCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +50,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD8E52DC2A9A11FC008EA05B /* SplashScreenAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreenAnimationView.swift; sourceTree = "<group>"; };
+		BD8E52DD2A9A11FC008EA05B /* ChartAnimationsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChartAnimationsView.swift; sourceTree = "<group>"; };
+		BD8E52DE2A9A11FC008EA05B /* ModalPresentationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalPresentationView.swift; sourceTree = "<group>"; };
+		BD8E52DF2A9A11FC008EA05B /* FadingTransitionAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FadingTransitionAnimationView.swift; sourceTree = "<group>"; };
+		BD8E52E02A9A11FC008EA05B /* BouncingBallAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BouncingBallAnimationView.swift; sourceTree = "<group>"; };
+		BD8E52E12A9A11FD008EA05B /* ImageGalleryCarouselView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageGalleryCarouselView.swift; sourceTree = "<group>"; };
+		BD8E52E82A9A131D008EA05B /* LiquidAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidAnimationView.swift; sourceTree = "<group>"; };
 		BDD182A12A91227F00AF4710 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD182A42A91227F00AF4710 /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
 		BDD182A62A91227F00AF4710 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,15 +69,11 @@
 		BDD182C02A91228200AF4710 /* AnimationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD182C42A91228200AF4710 /* AnimationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITests.swift; sourceTree = "<group>"; };
 		BDD182C62A91228200AF4710 /* AnimationsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		BDD182D32A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SplashScreenAnimationView.swift .swift"; sourceTree = "<group>"; };
 		BDD182D52A91241E00AF4710 /* ButtonPressEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPressEffectsView.swift; sourceTree = "<group>"; };
 		BDD182D72A91243300AF4710 /* CardFlipAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFlipAnimationView.swift; sourceTree = "<group>"; };
 		BDD182D92A91244900AF4710 /* ParallaxScrollingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxScrollingView.swift; sourceTree = "<group>"; };
 		BDD182DB2A91249700AF4710 /* LoadingIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingIndicatorView.swift; sourceTree = "<group>"; };
-		BDD182DD2A9124EE00AF4710 /* ModalPresentationView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ModalPresentationView.swift .swift"; sourceTree = "<group>"; };
-		BDD182DF2A91251D00AF4710 /* ChartAnimationsView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ChartAnimationsView.swift .swift"; sourceTree = "<group>"; };
 		BDD182E12A9125A900AF4710 /* WalkthroughAnimationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalkthroughAnimationsView.swift; sourceTree = "<group>"; };
-		BDD182E32A91260100AF4710 /* ImageGalleryCarouselView.swift .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ImageGalleryCarouselView.swift .swift"; sourceTree = "<group>"; };
 		BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulsatingCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD8E52EC2A9A13A3008EA05B /* Liquid in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,16 +165,19 @@
 		BDD182EA2A91411500AF4710 /* AnimationViews */ = {
 			isa = PBXGroup;
 			children = (
-				BDD182D32A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift */,
+				BD8E52E02A9A11FC008EA05B /* BouncingBallAnimationView.swift */,
+				BD8E52DD2A9A11FC008EA05B /* ChartAnimationsView.swift */,
+				BD8E52DF2A9A11FC008EA05B /* FadingTransitionAnimationView.swift */,
+				BD8E52E12A9A11FD008EA05B /* ImageGalleryCarouselView.swift */,
+				BD8E52DE2A9A11FC008EA05B /* ModalPresentationView.swift */,
+				BD8E52DC2A9A11FC008EA05B /* SplashScreenAnimationView.swift */,
 				BDD182D52A91241E00AF4710 /* ButtonPressEffectsView.swift */,
 				BDD182D72A91243300AF4710 /* CardFlipAnimationView.swift */,
 				BDD182D92A91244900AF4710 /* ParallaxScrollingView.swift */,
 				BDD182DB2A91249700AF4710 /* LoadingIndicatorView.swift */,
-				BDD182DD2A9124EE00AF4710 /* ModalPresentationView.swift .swift */,
-				BDD182DF2A91251D00AF4710 /* ChartAnimationsView.swift .swift */,
 				BDD182E12A9125A900AF4710 /* WalkthroughAnimationsView.swift */,
-				BDD182E32A91260100AF4710 /* ImageGalleryCarouselView.swift .swift */,
 				BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */,
+				BD8E52E82A9A131D008EA05B /* LiquidAnimationView.swift */,
 			);
 			path = AnimationViews;
 			sourceTree = "<group>";
@@ -187,6 +198,9 @@
 			dependencies = (
 			);
 			name = Animations;
+			packageProductDependencies = (
+				BD8E52EB2A9A13A3008EA05B /* Liquid */,
+			);
 			productName = Animations;
 			productReference = BDD182A12A91227F00AF4710 /* Animations.app */;
 			productType = "com.apple.product-type.application";
@@ -259,6 +273,9 @@
 				Base,
 			);
 			mainGroup = BDD182982A91227F00AF4710;
+			packageReferences = (
+				BD8E52EA2A9A13A3008EA05B /* XCRemoteSwiftPackageReference "liquid" */,
+			);
 			productRefGroup = BDD182A22A91227F00AF4710 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -301,18 +318,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDD182DE2A9124EE00AF4710 /* ModalPresentationView.swift .swift in Sources */,
+				BD8E52E62A9A11FD008EA05B /* BouncingBallAnimationView.swift in Sources */,
 				BDD182AE2A91228100AF4710 /* Persistence.swift in Sources */,
-				BDD182D42A9123FF00AF4710 /* SplashScreenAnimationView.swift .swift in Sources */,
 				BDD182A72A91227F00AF4710 /* ContentView.swift in Sources */,
-				BDD182E02A91251D00AF4710 /* ChartAnimationsView.swift .swift in Sources */,
+				BD8E52E32A9A11FD008EA05B /* ChartAnimationsView.swift in Sources */,
 				BDD182DC2A91249700AF4710 /* LoadingIndicatorView.swift in Sources */,
-				BDD182E42A91260100AF4710 /* ImageGalleryCarouselView.swift .swift in Sources */,
+				BD8E52E72A9A11FD008EA05B /* ImageGalleryCarouselView.swift in Sources */,
 				BDD182DA2A91244900AF4710 /* ParallaxScrollingView.swift in Sources */,
+				BD8E52E22A9A11FD008EA05B /* SplashScreenAnimationView.swift in Sources */,
+				BD8E52E42A9A11FD008EA05B /* ModalPresentationView.swift in Sources */,
 				BDD182D62A91241E00AF4710 /* ButtonPressEffectsView.swift in Sources */,
 				BDD182E22A9125A900AF4710 /* WalkthroughAnimationsView.swift in Sources */,
 				BDD182E82A913AB200AF4710 /* PulsatingCircleView.swift in Sources */,
+				BD8E52E92A9A131D008EA05B /* LiquidAnimationView.swift in Sources */,
 				BDD182D82A91243300AF4710 /* CardFlipAnimationView.swift in Sources */,
+				BD8E52E52A9A11FD008EA05B /* FadingTransitionAnimationView.swift in Sources */,
 				BDD182B12A91228100AF4710 /* Animations.xcdatamodeld in Sources */,
 				BDD182A52A91227F00AF4710 /* AnimationsApp.swift in Sources */,
 			);
@@ -633,6 +653,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BD8E52EA2A9A13A3008EA05B /* XCRemoteSwiftPackageReference "liquid" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maustinstar/liquid";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		BD8E52EB2A9A13A3008EA05B /* Liquid */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BD8E52EA2A9A13A3008EA05B /* XCRemoteSwiftPackageReference "liquid" */;
+			productName = Liquid;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		BDD182AF2A91228100AF4710 /* Animations.xcdatamodeld */ = {

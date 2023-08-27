@@ -46,35 +46,36 @@ struct ContentView: View {
                     }
                 }
                 
-                
-                NavigationLink {
-                    ModalPresentationView()
-                } label: {
-                    Label("Modal Presentation", systemImage: "rectangle.stack.fill")
-                }
-                
-                NavigationLink {
-                    ChartAnimationsView()
-                } label: {
-                    Label("Chart Animations", systemImage: "waveform.path.ecg.rectangle.fill")
-                }
-                
-                NavigationLink {
-                    WalkthroughAnimationsView()
-                } label: {
-                    Label("Walkthrough Animations", systemImage: "arrow.right.circle.fill")
-                }
-                
-                NavigationLink {
-                    ImageGalleryCarouselView()
-                } label: {
-                    Label("Image Gallery Carousel", systemImage: "photo.on.rectangle.fill")
-                }
-                
-                NavigationLink {
-                    PulsatingCircleView()
-                } label: {
-                    Label("Pulsating Circle Animations", systemImage: "circle.fill")
+                Group {
+                    NavigationLink {
+                        ModalPresentationView()
+                    } label: {
+                        Label("Modal Presentation", systemImage: "rectangle.stack.fill")
+                    }
+                    
+                    NavigationLink {
+                        ChartAnimationsView()
+                    } label: {
+                        Label("Chart Animations", systemImage: "waveform.path.ecg.rectangle.fill")
+                    }
+                    
+                    NavigationLink {
+                        WalkthroughAnimationsView()
+                    } label: {
+                        Label("Walkthrough Animations", systemImage: "arrow.right.circle.fill")
+                    }
+                    
+                    NavigationLink {
+                        ImageGalleryCarouselView()
+                    } label: {
+                        Label("Image Gallery Carousel", systemImage: "photo.on.rectangle.fill")
+                    }
+                    
+                    NavigationLink {
+                        PulsatingCircleView()
+                    } label: {
+                        Label("Pulsating Circle Animations", systemImage: "circle.fill")
+                    }
                 }
                 
                 NavigationLink {
@@ -93,6 +94,10 @@ struct ContentView: View {
                     FadingTransitionAnimationView()
                 } label: {
                     Label("Fading Transition Animation", systemImage: "arrow.triangle.2.circlepath.circle.fill")
+                }
+                
+                NavigationLink(destination: WavingAnimationView()) { // Adding the new animation view
+                    Label("Waving Animation", systemImage: "waveform.path.ecg.rectangle")
                 }
             }
             .navigationTitle("Animation Examples")

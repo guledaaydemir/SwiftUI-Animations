@@ -24,6 +24,7 @@ This repository contains a collection of SwiftUI animation examples implemented 
   - [🔺 Liquid Animation](#-liquid-animation)
   - [🔺 Bouncing Ball Animation](#-bouncing-ball-animation)
   - [🔺 Fading Transition Animation](#-fading-transition-animation)
+  - [🔺 Waving Animation](#-waving-animation)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -123,6 +124,12 @@ The "Bouncing Ball Animation" example showcases a dynamic animation of a ball bo
 
 The "Fading Transition Animation" example demonstrates a smooth transition between two views using opacity. When the "More Information" button is pressed, the view transitions from a compact state to an expanded state with fading animation. The transition adds a sense of depth and interactivity, enhancing the user experience. This animation effect can be particularly useful for revealing additional information or details within a limited space.
 
+### 🔺 Waving Animation
+
+<img src="gifs/WavingAnimation.gif" alt="Waving Animation" width="150">
+
+The "WavingAnimationView" is a SwiftUI view that demonstrates an animated waveform-like effect using sinusoidal curves. The code utilizes the SwiftUI framework to create a smooth and dynamic animation that showcases a wave pattern.
+
 
 ## Getting Started
 
@@ -148,4 +155,3 @@ To run the animation examples on your local machine, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 📮 For more information contact me: guledaaydemir@gmail.com
-

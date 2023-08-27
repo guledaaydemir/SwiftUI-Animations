@@ -16,6 +16,7 @@
 		BD8E52E92A9A131D008EA05B /* LiquidAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8E52E82A9A131D008EA05B /* LiquidAnimationView.swift */; };
 		BD8E52EC2A9A13A3008EA05B /* Liquid in Frameworks */ = {isa = PBXBuildFile; productRef = BD8E52EB2A9A13A3008EA05B /* Liquid */; };
 		BDCD3D522A9B65760010B765 /* WavingAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCD3D512A9B65760010B765 /* WavingAnimationView.swift */; };
+		BDCD3D542A9B78540010B765 /* WaveInteractionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCD3D532A9B78540010B765 /* WaveInteractionCardView.swift */; };
 		BDD182A52A91227F00AF4710 /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182A42A91227F00AF4710 /* AnimationsApp.swift */; };
 		BDD182A72A91227F00AF4710 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD182A62A91227F00AF4710 /* ContentView.swift */; };
 		BDD182A92A91228100AF4710 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDD182A82A91228100AF4710 /* Assets.xcassets */; };
@@ -59,6 +60,7 @@
 		BD8E52E12A9A11FD008EA05B /* ImageGalleryCarouselView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageGalleryCarouselView.swift; sourceTree = "<group>"; };
 		BD8E52E82A9A131D008EA05B /* LiquidAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidAnimationView.swift; sourceTree = "<group>"; };
 		BDCD3D512A9B65760010B765 /* WavingAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WavingAnimationView.swift; sourceTree = "<group>"; };
+		BDCD3D532A9B78540010B765 /* WaveInteractionCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveInteractionCardView.swift; sourceTree = "<group>"; };
 		BDD182A12A91227F00AF4710 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD182A42A91227F00AF4710 /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
 		BDD182A62A91227F00AF4710 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -181,6 +183,7 @@
 				BDD182E72A913AB200AF4710 /* PulsatingCircleView.swift */,
 				BD8E52E82A9A131D008EA05B /* LiquidAnimationView.swift */,
 				BDCD3D512A9B65760010B765 /* WavingAnimationView.swift */,
+				BDCD3D532A9B78540010B765 /* WaveInteractionCardView.swift */,
 			);
 			path = AnimationViews;
 			sourceTree = "<group>";
@@ -338,6 +341,7 @@
 				BDD182D82A91243300AF4710 /* CardFlipAnimationView.swift in Sources */,
 				BD8E52E52A9A11FD008EA05B /* FadingTransitionAnimationView.swift in Sources */,
 				BDD182B12A91228100AF4710 /* Animations.xcdatamodeld in Sources */,
+				BDCD3D542A9B78540010B765 /* WaveInteractionCardView.swift in Sources */,
 				BDD182A52A91227F00AF4710 /* AnimationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

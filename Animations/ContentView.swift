@@ -96,8 +96,15 @@ struct ContentView: View {
                     Label("Fading Transition Animation", systemImage: "arrow.triangle.2.circlepath.circle.fill")
                 }
                 
-                NavigationLink(destination: WavingAnimationView()) { // Adding the new animation view
+                NavigationLink {
+                    WavingAnimationView()
+                } label: {
                     Label("Waving Animation", systemImage: "waveform.path.ecg.rectangle")
+                }
+                NavigationLink {
+                    WaveInteractionCardView()
+                } label: {
+                    Label("Wave Interaction Card Animation", systemImage: "creditcard")
                 }
             }
             .navigationTitle("Animation Examples")

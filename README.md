@@ -25,6 +25,7 @@ This repository contains a collection of SwiftUI animation examples implemented 
   - [🔺 Bouncing Ball Animation](#-bouncing-ball-animation)
   - [🔺 Fading Transition Animation](#-fading-transition-animation)
   - [🔺 Waving Animation](#-waving-animation)
+  - [🔺 Wave Interaction Card Animation](#-wave-interaction-card-animation)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -130,6 +131,11 @@ The "Fading Transition Animation" example demonstrates a smooth transition betwe
 
 The "WavingAnimationView" is a SwiftUI view that demonstrates an animated waveform-like effect using sinusoidal curves. The code utilizes the SwiftUI framework to create a smooth and dynamic animation that showcases a wave pattern.
 
+### 🔺 Wave Interaction Card Animation
+
+<img src="gifs/WaveInteractionCardView.gif" alt="Wave Interaction Card Animation" width="150">
+
+This SwiftUI example demonstrates a captivating micro-interaction where a waveform-inspired animation creates an engaging visual effect on a card. The animation consists of multiple overlapping waveforms that change color as they move, producing a dynamic and eye-catching user experience.
 
 ## Getting Started
 
